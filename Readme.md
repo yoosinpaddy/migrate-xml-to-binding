@@ -1,4 +1,4 @@
-#Migrating android xml files to view binding
+# Migrating android xml files to view binding
 
 this code adds ```<layout>``` given the path to the xml file
 
